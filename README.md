@@ -1,12 +1,23 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## ✨ Olá! Eu me chamo Marcy!
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMarcyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
+<br>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+Atualmente estudando desenvolvimento backend com foco em **Python**.  
+
+---
+
+### 💻 O que já aprendi
+- Python (projetos de terminal)
+- Estrutura de dados e lógica de programação
+- Git e GitHub
+
+---
+
+✨ Obrigada por visitar meu perfil!
