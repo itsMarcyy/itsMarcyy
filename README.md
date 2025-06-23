@@ -1,4 +1,4 @@
-## ✨ Olá! Eu me chamo Marcy!
+## ✨ Olá! Eu me chamo Marcella, mas pode me chamar de Marcy!
 
 
 <div align="center">
