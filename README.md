@@ -15,6 +15,7 @@ Atualmente estudando desenvolvimento backend com foco em **Python**.
 
 ### 💻 O que já aprendi
 - Python (projetos de terminal)
+- Programação Orientada a Objetos (POO)
 - Estrutura de dados e lógica de programação
 - Git e GitHub
 
