@@ -1,24 +1,56 @@
-## ✨ Olá! Eu me chamo Marcella, mas pode me chamar de Marcy!
+<h1 align="center">✨ Olá! Eu me chamo Marcella, mas pode me chamar de Marcy! ✨</h1>
 
+<p align="center">
+  Estudante de <b>Análise e Desenvolvimento de Sistemas.</b>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMarcyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMarcyy&locale=en&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-<br>
+---
+
+## 🌟 Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-Atualmente estudando desenvolvimento backend com foco em **Python**.  
+## 💻 O que já aprendi
+- Lógica de Programação  
+- Python  
+- Programação Orientada a Objetos (POO)  
+- JSON  
+- Git e GitHub  
 
 ---
 
-### 💻 O que já aprendi
-- Python (projetos de terminal)
-- Programação Orientada a Objetos (POO)
-- Estrutura de dados e lógica de programação
-- Git e GitHub
+## 📖 Atualmente estudando
+- Django  
+- C (nível básico, pela faculdade)  
 
 ---
 
-✨ Obrigada por visitar meu perfil!
+## 🚀 Projetos
+- **PyCine** 🎬 → Catálogo pessoal de filmes com avaliações, desenvolvido em Python.  
+  - Permite adicionar,listar, buscar, remover e editar informações de obras.  
+  👉 [Repositório no GitHub](https://github.com/itsMarcyy/PyCine)
+
+---
+
+## 📫 Contatos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcellabrandao/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:marcella.pinho.brandao4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
