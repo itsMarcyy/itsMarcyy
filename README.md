@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá! Eu me chamo Marcella, mas pode me chamar de Marcy! ✨</h1>
+<h1 align="center"> Olá! Eu me chamo Marcella, mas pode me chamar de Marcy! </h1>
 
 <p align="center">
   Estudante de <b>Análise e Desenvolvimento de Sistemas.</b>
@@ -44,7 +44,7 @@
 
 ---
 
-## 📫 Contatos
+## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcellabrandao/" target="_blank">
