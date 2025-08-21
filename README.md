@@ -39,7 +39,7 @@
 
 ## 🚀 Projetos
 - **PyCine** 🎬 → Catálogo pessoal de filmes com avaliações, desenvolvido em Python.  
-  - Permite adicionar,listar, buscar, remover e editar informações de obras.  
+  - Permite adicionar, listar, buscar, remover e editar informações de obras.  
   👉 [Repositório no GitHub](https://github.com/itsMarcyy/PyCine)
 
 ---
