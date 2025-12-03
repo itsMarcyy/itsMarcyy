@@ -6,11 +6,23 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMarcyy&locale=en&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=itsMarcy&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ---
+
 
 ## 🌟 Tecnologias e Ferramentas
 <p align="center">
