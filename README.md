@@ -28,7 +28,8 @@
 
 ## 📖 Atualmente estudando
 - Django  
-- C (nível básico, pela faculdade)  
+- C (nível básico, pela faculdade)
+- Banco de Dados
 
 ---
 
