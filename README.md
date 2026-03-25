@@ -18,19 +18,27 @@
 ---
 
 ## 💻 O que já aprendi
-- Lógica de Programação  
+- Lógica de programação  
 - Python  
-- Programação Orientada a Objetos (POO)  
+- Programação orientada a objetos (POO)  
 - JSON  
 - Git e GitHub  
 
 ---
 
 ## 📖 Atualmente estudando
-- Django  
 - C (nível básico, pela faculdade)
-- Banco de Dados
+- Banco de dados
+- Estruturas de dados 
+  
+---
 
+## 🚀 Aprofundando conhecimentos
+- Boas práticas de programação
+- Princípios SOLID
+- Arquitetura de software (Clean Architecture)
+- Desenvolvimento de APIs com FastAPI
+  
 ---
 
 ## 🚀 Projetos
