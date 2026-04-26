@@ -50,10 +50,26 @@
 ---
 
 ## 🚀 Projetos
-- **PyCine** 🎬 → Catálogo pessoal de filmes, desenvolvido em Python.  
-  - Permite adicionar, listar, buscar, remover e editar informações de obras.  
-  👉 [Repositório no GitHub](https://github.com/itsMarcyy/PyCine)
 
+
+- **🎬 Pycine (API)**  
+  API para gerenciamento de mídias (filmes e séries) e avaliações.  
+  🚧 Projeto em desenvolvimento
+
+  - Desenvolvido com FastAPI  
+  - Integração com PostgreSQL  
+  - Uso de SQLAlchemy e Pydantic  
+  - Sistema de cadastro de mídias e reviews  
+
+  👉 [Repositório no GitHub](https://github.com/itsMarcyy/pycine-api)
+
+
+- **🎬 Pycine (versão inicial)**  
+  Catálogo pessoal de filmes, desenvolvido em Python.  
+
+  - Permite adicionar, listar, buscar, remover e editar informações de obras  
+
+  👉 [Repositório no GitHub](https://github.com/itsMarcyy/PyCine)
 ---
 
 ## 📫 Contato
