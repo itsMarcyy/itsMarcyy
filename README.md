@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projeto em destaque • Featured Project
 
 <p align="center">
   <a href="https://github.com/itsMarcyy/pycine-api">
@@ -41,7 +41,7 @@ REST API for managing movies and series with a review system.
 
 ---
 
-## 🌟 Tecnologias e Ferramentas
+## 🌟 Tecnologias e Ferramentas • Technologies and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -67,22 +67,23 @@ Focused on building APIs using Python and FastAPI, applying clean code and best 
 
 ---
 
-## 🚀 Outros projetos
+## 🚀 Outros projetos • Other Projects
 
 ### 🎬 Pycine Terminal
 
 Sistema de catálogo de filmes via terminal com persistência em JSON.
+Terminal-based movie catalog system with JSON persistence.
 
-- Menu interativo (CLI)  
-- CRUD completo  
-- Estrutura modular  
-- Manipulação de JSON  
+- Menu interativo (CLI) • Interactive CLI  
+- CRUD completo • Full CRUD  
+- Estrutura modular • Modular structure  
+- Manipulação de JSON • JSON handling  
 
 🔗 https://github.com/itsMarcyy/pycine-terminal  
 
 ---
 
-## 📫 Contato
+## 📫 Contato • Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/marcellabrandao  
 - 📧 Email: marcella.pinho.brandao4@gmail.com  
