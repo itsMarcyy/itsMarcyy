@@ -1,84 +1,88 @@
-<h1 align="center"> Olá! Eu me chamo Marcella, mas pode me chamar de Marcy! </h1>
+<h1 align="center">Marcella Brandão 🌙✨</h1>
 
 <p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas.</b>
+  <b>Desenvolvedora Backend em formação</b> • Backend Developer in Training
+</p>
+
+<p align="center">
+  Construindo APIs e projetos backend com foco em boas práticas e organização de código.<br>
+  Building APIs and projects with a focus on clean code and best practices.
+</p>
+
+<br/>
+
+---
+
+## 🚀 Projeto em destaque
+
+<p align="center">
+  <a href="https://github.com/itsMarcyy/pycine-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsMarcyy&repo=pycine-api&theme=dracula&hide_border=true"/>
+  </a>
+</p>
+
+### 🇧🇷 Descrição
+
+API REST para gerenciamento de filmes e séries com sistema de avaliações.
+
+- FastAPI + PostgreSQL  
+- SQLAlchemy ORM  
+- Arquitetura em camadas  
+- CRUD completo  
+
+### 🌍 Description
+
+REST API for managing movies and series with a review system.
+
+- FastAPI + PostgreSQL  
+- SQLAlchemy ORM  
+- Layered architecture  
+- Full CRUD operations  
+
+---
+
+## 🌟 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
 ---
 
+## 👩‍💻 Sobre mim
 
-## 🌟 Tecnologias e Ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Python e FastAPI.  
+Desenvolvo projetos próprios aplicando boas práticas, organização de código e integração com banco de dados.
 
 ---
 
-## 💻 O que já aprendi
-- Lógica de programação  
-- Python  
-- Programação orientada a objetos (POO)  
-- JSON  
-- Git e GitHub  
+## 👩‍💻 About me
+
+Backend developer in training, currently studying Systems Analysis and Development.  
+Focused on building APIs using Python and FastAPI, applying clean code and best practices.
 
 ---
 
-## 📖 Atualmente estudando
-- C (nível básico, pela faculdade)
-- Banco de dados
-- Estruturas de dados 
-  
----
+## 🚀 Outros projetos
 
-## 🚀 Aprofundando conhecimentos
-- Boas práticas de programação
-- Princípios SOLID
-- Arquitetura de software (Clean Architecture)
-- Desenvolvimento de APIs com FastAPI
-  
----
+### 🎬 Pycine Terminal
 
-## 🚀 Projetos
+Sistema de catálogo de filmes via terminal com persistência em JSON.
 
+- Menu interativo (CLI)  
+- CRUD completo  
+- Estrutura modular  
+- Manipulação de JSON  
 
-- **🎬 Pycine (API)**  
-  API para gerenciamento de mídias (filmes e séries) e avaliações.  
-  🚧 Projeto em desenvolvimento
+🔗 https://github.com/itsMarcyy/pycine-terminal  
 
-  - Desenvolvido com FastAPI  
-  - Integração com PostgreSQL  
-  - Uso de SQLAlchemy e Pydantic  
-  - Sistema de cadastro de mídias e reviews  
-
-  👉 [Repositório no GitHub](https://github.com/itsMarcyy/pycine-api)
-
-
-- **🎬 Pycine (versão inicial)**  
-  Catálogo pessoal de filmes, desenvolvido em Python.  
-
-  - Permite adicionar, listar, buscar, remover e editar informações de obras  
-
-  👉 [Repositório no GitHub](https://github.com/itsMarcyy/PyCine)
 ---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcellabrandao/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:marcella.pinho.brandao4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/marcellabrandao  
+- 📧 Email: marcella.pinho.brandao4@gmail.com  
